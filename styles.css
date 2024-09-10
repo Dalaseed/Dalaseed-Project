@@ -34,3 +34,8 @@ body {
 .pillar, .stat {
     width: 30%;
 }
+
+.icon {
+    max-width: 100px;
+    height: auto;
+}
